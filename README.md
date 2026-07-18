@@ -1,9 +1,9 @@
 # Hi there, I'm Zia Mehmood 👋
 
-🎓 MS Data Science Candidate | BS Software Engineering
-📊 Data Analyst | Analytics Engineer | Data Science Enthusiast
+🎓 MS Data Science Candidate |
+📊 Data Analyst | Analytics Engineer | Data Engineer Enthusiast
 🏅 Microsoft Fabric Data Engineer Associate (DP-700)
-👨‍🏫 Lab Instructor (ANN & COAL Labs) at SZABIST Islamabad
+👨‍🏫 Lab Instructor (Artificial Neural Network Labs) at SZABIST Islamabad
 📍 Islamabad, Pakistan
 
 ---
