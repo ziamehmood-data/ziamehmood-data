@@ -1,39 +1,70 @@
-# Hi there, I'm Zia Mehmood 👋
+# Hi, I'm Zia Mehmood 👋
 
-🎓 MS Data Science Candidate |
-📊 Data Analyst | Analytics Engineer | Data Engineer Enthusiast
-🏅 Microsoft Fabric Data Engineer Associate (DP-700)
-👨‍🏫 Lab Instructor (Artificial Neural Network Labs) at SZABIST Islamabad
-📍 Islamabad, Pakistan
+**BI Developer | Data Analyst**
+**MS Data Science Candidate | Microsoft Certified: Fabric Data Engineer Associate (DP-700)**
 
----
+I'm currently focused on building Business Intelligence solutions using **SQL, Excel, Power BI, Python, and Microsoft Fabric**.
 
-## 🚀 About Me
-
-I'm a data professional passionate about transforming raw data into actionable insights and intelligent business solutions.
-
-My primary interests include:
-
-* Data Analytics & Business Intelligence
-* Data Engineering & Microsoft Fabric
-* Machine Learning & Predictive Analytics
-* AI-Powered Data Applications
-* Healthcare & Operational Analytics
-
-Currently pursuing my Master's in Data Science while building real-world analytics solutions and preparing for advanced data engineering roles.
+Rather than creating tutorial projects, I'm building portfolio projects based on real business problems in industries like retail, healthcare, finance, HR, and supply chain. My goal is to develop practical analytics solutions that help organizations make better decisions.
 
 ---
 
-## 🛠️ Technical Skills
+## 🚀 What You'll Find Here
 
-### Data Analytics
+* Business Intelligence Projects
+* SQL Business Case Studies
+* Power BI Dashboards
+* Python for Data Analytics
+* Microsoft Fabric Experiments
+* Analytics Engineering Projects
+* Master's Research
 
-* SQL
-* Excel
+---
+
+## 📌 Featured Projects
+
+### 🏢 AI Property Operations Analytics Platform
+
+A business intelligence platform for monitoring property portfolio performance.
+
+**Highlights**
+
+* Executive KPI Dashboard
+* Revenue & Occupancy Analytics
+* Property Health Score
+* Data Quality Assessment
+* Executive Summary Generation
+
+**Tech Stack**
+Python • Streamlit • Pandas • Plotly
+
+**Live Demo**
+https://ai-property-operations-platform-kjxp3wh6u42ercfreb88d7.streamlit.app/
+
+**Repository**
+https://github.com/ZiaMehmood1996/ai-property-operations-platform
+
+---
+
+### 🩺 Temporal Deep Learning for Early Prediction of Post-Operative Sepsis
+
+Master's thesis focused on early prediction of post-operative sepsis using Electronic Health Records (MIMIC-IV).
+
+**Technologies**
+Python • TensorFlow • LSTM • GRU • Transformer
+
+---
+
+## 🛠 Tech Stack
+
+### Business Intelligence
+
+* SQL (PostgreSQL)
+* Microsoft Excel
+* Power Query
 * Power BI
-* Data Visualization
-* Exploratory Data Analysis (EDA)
-* KPI Dashboard Development
+* DAX
+* Data Modeling
 
 ### Programming
 
@@ -41,110 +72,54 @@ Currently pursuing my Master's in Data Science while building real-world analyti
 * Pandas
 * NumPy
 * Matplotlib
-* Plotly
-* Streamlit
 
 ### Data Engineering
 
 * Microsoft Fabric
-* Data Warehousing
-* ETL Pipelines
 * PostgreSQL
 * SQLite
 
-### Machine Learning
-
-* Scikit-Learn
-* TensorFlow
-* PyTorch
-* Model Evaluation
-* Feature Engineering
-
 ### Tools
 
-* Git & GitHub
+* Git
+* GitHub
 * VS Code
 * Jupyter Notebook
-* Docker (Basic)
 
 ---
 
-## 🌟 Featured Projects
+## 📅 Current Focus (Next 45 Days)
 
-### 🏠 AI Property Operations Analytics Platform
-
-A cloud-deployed analytics platform for property portfolio monitoring and operational insights.
-
-#### Features
-
-* CSV/Excel Data Upload
-* Data Quality Assessment
-* KPI Dashboard
-* Revenue & Occupancy Analytics
-* Property Ranking
-* Property Health Score
-* Executive Summary Generation
-
-🔗 Live Demo:
-https://ai-property-operations-platform-kjxp3wh6u42ercfreb88d7.streamlit.app/
-
-🔗 Source Code:
-https://github.com/ZiaMehmood1996/ai-property-operations-platform
-
----
-
-### 🩺 Temporal Deep Learning for Early Prediction of Post-Operative Sepsis
-
-Master's Thesis Project
-
-Research focused on developing temporal deep learning models for early prediction of post-operative sepsis using Electronic Health Records (EHR) datasets.
-
-Technologies:
-
-* Python
-* TensorFlow
-* LSTM
-* GRU
-* Transformer Models
-* MIMIC-IV Dataset
-
----
-
-## 📚 Certifications
-
-🏅 Microsoft Certified: Fabric Data Engineer Associate (DP-700)
-
----
-
-## 🌱 Currently Learning
+I'm currently following a structured Business Intelligence roadmap focused on:
 
 * Advanced SQL
-* Microsoft Fabric Architecture
-* Data Engineering Best Practices
-* Analytics Engineering
-* AI-Powered Data Applications
+* Power BI & DAX
+* Excel & Power Query
+* Python for Analytics
+* Microsoft Fabric Fundamentals
+* Enterprise Portfolio Projects
+* Interview Preparation
+
+New repositories will be added regularly as I complete each project.
 
 ---
 
-## 📈 GitHub Stats
+## 🎓 Certification
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZiaMehmood1996\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZiaMehmood1996\&layout=compact\&theme=tokyonight)
+**Microsoft Certified: Fabric Data Engineer Associate (DP-700)**
 
 ---
 
-## 📫 Connect With Me
+## 🤝 Let's Connect
 
-LinkedIn:
+**LinkedIn**
 https://www.linkedin.com/in/ziamehmood/
 
-GitHub:
-https://github.com/ZiaMehmood1996
-
-Email:
+**Email**
 [ziamehmood473@gmail.com](mailto:ziamehmood473@gmail.com)
 
 ---
 
-⭐ "Turning data into insights, and insights into decisions."
+Thanks for visiting my profile.
+
+I'm documenting my journey toward becoming a Business Intelligence Engineer by building practical, business-focused projects and continuously improving my skills. Feedback, collaboration, and discussions are always welcome.
