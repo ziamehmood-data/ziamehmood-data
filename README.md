@@ -1,6 +1,8 @@
 # Hi, I'm Zia Mehmood 👋
 
-## Business Intelligence Developer | Data Analyst | Power BI | Microsoft Fabric
+## Business Intelligence Developer | Data Analyst
+
+**SQL • Power BI • Microsoft Fabric • Python • Excel**
 
 🎓 **MS Data Science**  
 🏅 **Microsoft Certified: Fabric Data Engineer Associate (DP-700)**
@@ -10,6 +12,14 @@ I build end-to-end Business Intelligence solutions using **SQL, Excel, Power BI,
 I'm passionate about solving real-world business problems across **Retail, Healthcare, Finance, HR, and Supply Chain** using modern analytics technologies.
 
 ---
+## 📊 Focus Areas
+
+- 📈 Business Intelligence & Analytics
+- 📊 Interactive Power BI Dashboards
+- 🗄 SQL Query Optimization & Data Modeling
+- ☁ Microsoft Fabric
+- 🐍 Python for Data Analytics
+- 📦 End-to-End Analytics Projects
 
 # 🚀 Featured Projects
 
@@ -116,12 +126,13 @@ Currently building a portfolio of business-focused analytics projects including:
 
 # 🤝 Connect With Me
 
-💼 **LinkedIn**
+💼 **LinkedIn**  
+🔗 https://www.linkedin.com/in/ziamehmood/
 
-https://www.linkedin.com/in/ziamehmood/
+💻 **GitHub**  
+🔗 https://github.com/ziamehmood-data
 
-📧 **Email**
-
+📧 **Email**  
 ziamehmood473@gmail.com
 
 ---
