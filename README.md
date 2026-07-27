@@ -1,125 +1,146 @@
 # Hi, I'm Zia Mehmood 👋
 
-**BI Developer | Data Analyst**
-**MS Data Science Candidate | Microsoft Certified: Fabric Data Engineer Associate (DP-700)**
+## Business Intelligence Developer | Data Analyst | Power BI | Microsoft Fabric
 
-I'm currently focused on building Business Intelligence solutions using **SQL, Excel, Power BI, Python, and Microsoft Fabric**.
+🎓 **MS Data Science**  
+🏅 **Microsoft Certified: Fabric Data Engineer Associate (DP-700)**
 
-Rather than creating tutorial projects, I'm building portfolio projects based on real business problems in industries like retail, healthcare, finance, HR, and supply chain. My goal is to develop practical analytics solutions that help organizations make better decisions.
+I build end-to-end Business Intelligence solutions using **SQL, Excel, Power BI, Python, and Microsoft Fabric**. My work focuses on transforming raw data into meaningful insights through data modeling, analytics, interactive dashboards, and business intelligence solutions.
 
----
-
-## 🚀 What You'll Find Here
-
-* Business Intelligence Projects
-* SQL Business Case Studies
-* Power BI Dashboards
-* Python for Data Analytics
-* Microsoft Fabric Experiments
-* Analytics Engineering Projects
-* Master's Research
+I'm passionate about solving real-world business problems across **Retail, Healthcare, Finance, HR, and Supply Chain** using modern analytics technologies.
 
 ---
 
-## 📌 Featured Projects
+# 🚀 Featured Projects
 
-### 🏢 AI Property Operations Analytics Platform
+## 🏢 AI Property Operations Analytics Platform
 
-A business intelligence platform for monitoring property portfolio performance.
+A business intelligence platform designed to monitor and analyze property portfolio performance through interactive dashboards and AI-powered insights.
 
-**Highlights**
+### Business Features
 
-* Executive KPI Dashboard
-* Revenue & Occupancy Analytics
-* Property Health Score
-* Data Quality Assessment
-* Executive Summary Generation
+- Executive KPI Dashboard
+- Revenue & Occupancy Analytics
+- Property Health Score
+- Data Quality Assessment
+- AI Executive Summary Generation
 
-**Tech Stack**
+### Tech Stack
+
 Python • Streamlit • Pandas • Plotly
 
-**Live Demo**
-https://ai-property-operations-platform-kjxp3wh6u42ercfreb88d7.streamlit.app/
+### Live Demo
 
-**Repository**
-https://github.com/ZiaMehmood1996/ai-property-operations-platform
+🔗 https://ai-property-operations-platform-kjxp3wh6u42ercfreb88d7.streamlit.app/
 
----
+### Repository
 
-### 🩺 Temporal Deep Learning for Early Prediction of Post-Operative Sepsis
-
-Master's thesis focused on early prediction of post-operative sepsis using Electronic Health Records (MIMIC-IV).
-
-**Technologies**
-Python • TensorFlow • LSTM • GRU • Transformer
+🔗 https://github.com/ziamehmood-data/ai-property-operations-platform
 
 ---
 
-## 🛠 Tech Stack
+## 🩺 Temporal Deep Learning for Early Prediction of Post-Operative Sepsis
 
-### Business Intelligence
+Master's research focused on early prediction of post-operative sepsis using Electronic Health Records (MIMIC-IV).
 
-* SQL (PostgreSQL)
-* Microsoft Excel
-* Power Query
-* Power BI
-* DAX
-* Data Modeling
+### Technologies
 
-### Programming
-
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-
-### Data Engineering
-
-* Microsoft Fabric
-* PostgreSQL
-* SQLite
-
-### Tools
-
-* Git
-* GitHub
-* VS Code
-* Jupyter Notebook
+Python • TensorFlow • LSTM • GRU • Transformer • SHAP
 
 ---
 
-## 📅 Current Focus (Next 45 Days)
+# 📂 Upcoming Portfolio Projects
 
-I'm currently following a structured Business Intelligence roadmap focused on:
+Currently building a portfolio of business-focused analytics projects including:
 
-* Advanced SQL
-* Power BI & DAX
-* Excel & Power Query
-* Python for Analytics
-* Microsoft Fabric Fundamentals
-* Enterprise Portfolio Projects
-* Interview Preparation
-
-New repositories will be added regularly as I complete each project.
+- 🛒 Retail Inventory Intelligence Platform
+- 📈 Sales Performance Analytics Dashboard
+- 👥 HR Analytics Dashboard
+- 💰 Financial Analytics Dashboard
+- 🏥 Healthcare Analytics Platform
+- ☁ Microsoft Fabric End-to-End Analytics
+- 🗄 SQL Business Case Studies
 
 ---
 
-## 🎓 Certification
+# 🛠 Tech Stack
+
+## Business Intelligence
+
+- SQL (PostgreSQL)
+- Microsoft Excel
+- Power Query
+- Power BI
+- DAX
+- Data Modeling
+
+## Data Analytics
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+
+## Data Engineering
+
+- Microsoft Fabric
+- PostgreSQL
+- SQLite
+
+## Development Tools
+
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+
+---
+
+# 🎯 Currently Working On
+
+- Advanced SQL
+- Power BI Dashboard Development
+- DAX & Data Modeling
+- Microsoft Fabric
+- Enterprise BI Portfolio Projects
+- Data Visualization Best Practices
+- Technical Interview Preparation
+
+---
+
+# 🏅 Certification
 
 **Microsoft Certified: Fabric Data Engineer Associate (DP-700)**
 
 ---
 
-## 🤝 Let's Connect
+# 🤝 Connect With Me
 
-**LinkedIn**
+💼 **LinkedIn**
+
 https://www.linkedin.com/in/ziamehmood/
 
-**Email**
-[ziamehmood473@gmail.com](mailto:ziamehmood473@gmail.com)
+📧 **Email**
+
+ziamehmood473@gmail.com
 
 ---
 
-Thanks for visiting my profile.
+## 📈 GitHub Goals
 
-I'm documenting my journey toward becoming a Business Intelligence Engineer by building practical, business-focused projects and continuously improving my skills. Feedback, collaboration, and discussions are always welcome.
+My goal is to build a professional portfolio demonstrating practical experience in:
+
+- Business Intelligence
+- Data Analytics
+- Data Visualization
+- Microsoft Fabric
+- SQL Development
+- Analytics Engineering
+
+Every project emphasizes solving real business problems with clean architecture, documentation, and actionable insights.
+
+---
+
+⭐ Thank you for visiting my GitHub profile!
+
+If you're interested in Business Intelligence, Power BI, Microsoft Fabric, or Data Analytics, feel free to connect or explore my projects.
