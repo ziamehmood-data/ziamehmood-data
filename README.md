@@ -127,7 +127,7 @@ Currently building a portfolio of business-focused analytics projects including:
 # 🤝 Connect With Me
 
 💼 **LinkedIn**  
-🔗 https://www.linkedin.com/in/ziamehmood/
+🔗 https://www.linkedin.com/in/ziamehmood-data/
 
 💻 **GitHub**  
 🔗 https://github.com/ziamehmood-data
